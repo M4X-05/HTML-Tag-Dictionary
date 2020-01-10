@@ -1,0 +1,103 @@
+Dictionary
+
+
+
+<a></a>: a hyper link that makes the link underlined 
+
+Attribute: gives a link to a website or video
+
+Ex.:<a href="https://www.nvidia.com/en-us/geforce/">website</a>
+
+<h1></h1>: makes text larger and puts on a seperate line.
+
+Attribute: none
+
+Ex.:<h1>Maxwell Dorrington</h1>
+
+<img></img>: puts an image inside Notepad++ 
+
+Attribute: brings an image into your website
+
+Ex.:<img src="babyyoda.jpg">
+
+<li></li>: turns the line into a list
+
+Attribute:none
+
+Ex.:<li>Stepping on Lego</li> 
+
+<ol></ol>: makes your list using (123)
+
+Attribute:none
+
+Ex:<ol>
+<li>Stepping on Lego</li> 
+<li>Chalkboard scrapping</li> 
+<li>game lagging</li> 
+</ol>
+
+<p></p>: seperates the paragraph from everything else.
+
+Attribute:none
+
+Ex:<p>3 thing I don't like:</P>
+
+<ul></ul>: makes your list using a dot.
+
+Attribute:none
+
+Ex:<ul>
+<li>Stepping on Lego</li> 
+<li>Chalkboard scrapping</li> 
+<li>game lagging</li> 
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
