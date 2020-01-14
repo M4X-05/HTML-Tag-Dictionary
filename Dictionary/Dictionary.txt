@@ -1,35 +1,41 @@
 Dictionary
 
-
+<!DOCTYPE>: selects which version of html you want to you use, no close tag
+Attribute:html
+Ex. <!DOCTYPE html> </html>
 
 <a></a>: a hyper link that makes the link underlined 
-
 Attribute: gives a link to a website or video
+Ex.<a href="https://www.nvidia.com/en-us/geforce/">website</a>
 
-Ex.:<a href="https://www.nvidia.com/en-us/geforce/">website</a>
+<body></body>: contains the content of the webpage not DOCTYPE
+Attribute:none
+Ex. <body></body> 
 
 <h1></h1>: makes text larger and puts on a seperate line.
-
 Attribute: none
-
 Ex.:<h1>Maxwell Dorrington</h1>
 
+<head></head>contains things for your browser to think about for the tab of your browser
+Attribute: none
+EX. <head>
+  <title>First Website</title>
+  </head>
+
+<html></html> Tells where the website starts and ends
+Attribute:
+Ex.<html>paragraph</html>
+
 <img></img>: puts an image inside Notepad++ 
-
 Attribute: brings an image into your website
-
 Ex.:<img src="babyyoda.jpg">
 
 <li></li>: turns the line into a list
-
 Attribute:none
-
 Ex.:<li>Stepping on Lego</li> 
 
 <ol></ol>: makes your list using (123)
-
 Attribute:none
-
 Ex:<ol>
 <li>Stepping on Lego</li> 
 <li>Chalkboard scrapping</li> 
@@ -37,15 +43,15 @@ Ex:<ol>
 </ol>
 
 <p></p>: seperates the paragraph from everything else.
-
 Attribute:none
-
 Ex:<p>3 thing I don't like:</P>
 
+<title></title> gives your browser tab and gives it a name
+Attribute: none
+Ex. <title>FirstWebsite</title>
+
 <ul></ul>: makes your list using a dot.
-
 Attribute:none
-
 Ex:<ul>
 <li>Stepping on Lego</li> 
 <li>Chalkboard scrapping</li> 
